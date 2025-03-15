@@ -1,1 +1,1 @@
-bu web site cok temel düzeyde olup kendimi geliştirmek için yapılmıştır ve halen bitmemiştir
+bu web site cok temel düzeydedir.ve kendimi geliştirmek için yapılmıştır ve halen bitmemiştir
